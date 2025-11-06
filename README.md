@@ -1,5 +1,5 @@
-<h1 align="center">Nyathi here.👨‍💻</h1>
-<h3 align="center">An unpassionate ML/AI engineer, full stack web developer, and DevSecOps engineer.</h3>
+<h1 align="center">Enough with greetings 👨‍💻</h1>
+<h3 align="center">I'm an unpassionate ML/AI engineer, full stack web developer, and DevSecOps engineer.</h3>
 
 - 🔭 I’m currently developing full stack ML applications. **And I keep my projects private cause my code is cool.**
 
