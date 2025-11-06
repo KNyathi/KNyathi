@@ -1,21 +1,17 @@
 <h1 align="center">Nyathi here.</h1>
 <h3 align="center">An unpassionate ML/AI engineer, full stack developer, and DevSecOps engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knyathi&label=Profile%20views&color=0e75b6&style=flat" alt="knyathi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knyathi" alt="knyathi" /></a> </p>
-
 - 🔭 I’m currently developing full stack ML applications. **And I keep my projects private cause my code is cool.**
 
 - 🗣 I’m looking for qualified IT specialists in all spheres to work on a few startup projects. **And I recently hired myself as well (working on a startup).**
 
-- 👨‍💻 All of my projects are available at [https://dev.portnain.com](https://dev.portnain.com)
+- 👨‍💻 All of my projects are available at:  [https://dev.portnain.com](https://dev.portnain.com)
 
-- 📝 I regularly write articles on [https://portnain.com](https://portnain.com)
+- 📝 I regularly write articles on:  [https://portnain.com](https://portnain.com)
 
-- 📫 How to reach me **khayelihlenyathi07@gmail.com**
+- 📫 How to reach me: **khayelihlenyathi07@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny. And that's a fact.**
+- ⚡ Fun fact: **I think I'm funny. And that's a fact.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
