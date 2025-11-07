@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at:  [https://dev.portnain.com](https://dev.portnain.com)
 
-- 📝 I regularly write articles on:  [https://portnain.com](https://portnain.com/blog)
+- 📝 I regularly write articles on:  [https://portnain.com/blog](https://portnain.com/blog)
 
 - 📫 How to reach me: **khayelihlenyathi07@gmail.com**
 
