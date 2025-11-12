@@ -1,4 +1,4 @@
-<h1 align="center">We don't know each other... 👨‍💻</h1>
+
 <h3 align="center">ML/AI engineer, full stack web developer, and DevSecOps engineer (for now).</h3>
 
 - 🔭 I’m currently developing full stack ML applications. **And I keep my projects private cause my code is cool.**
