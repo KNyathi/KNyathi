@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently developing full stack ML applications. **And I keep my projects private cause my code is cool.**
 
-- 🗣 I’m looking for qualified IT specialists in all spheres to work on a few startup projects. **And I recently hired myself as well (working on a startup).**
+- 🗣 I’m looking for qualified IT specialists in all spheres to work on a few startup projects with. 
 
 - 👨‍💻 All of my projects are available at:  [https://dev.portnain.com](https://dev.portnain.com)
 
